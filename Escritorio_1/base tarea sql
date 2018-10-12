@@ -1,0 +1,3 @@
+create table terminal (
+        te_coditerm char (6),
+)
